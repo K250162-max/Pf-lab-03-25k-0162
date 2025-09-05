@@ -5,9 +5,9 @@
 
   Hobby:
   
-  .  *football*
-  .  cricket
-  .  basketball
+  -  *football*
+  -  cricket
+  -  basket ball
 
 Language:
  

@@ -2,16 +2,12 @@
 ## Myself: ##
  ### Name: ###
   Arham Alam
-  <br/>
-    hobby 
-    <br/>
+
+  Hobby:
+  
   . *football*
   . cricket
   . basketball
-<br/>
-    language 
-   <br/>
-    1. urdu
-    2. english
-    3. punjabi
+
+Language:
  

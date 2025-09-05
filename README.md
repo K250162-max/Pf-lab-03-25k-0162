@@ -3,9 +3,9 @@
  ### Name: ###
   Arham Alam
   #### hobby ####
-   1. *football*
-   2. cricket
-   3. basketball
+   . *football*
+   . cricket
+   . basketball
 <br/>
     language 
    <br/>
